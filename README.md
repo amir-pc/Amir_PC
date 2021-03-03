@@ -3,9 +3,9 @@
 
 ### GitHub Stats And Top Languages 📌
 
-![savageryu](https://github-readme-stats.vercel.app/api?username=savageryu&show_icons=true&theme=dark)
+![savageryu](https://github-readme-stats.vercel.app/api?username=amir-pc&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savageryu&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-pc&layout=compact&theme=dark)
 
 ## I'm a Verified Discord Developer 🎇
 
