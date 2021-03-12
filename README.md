@@ -11,7 +11,7 @@
 ## I'm a Verified Discord Developer 🎇
 
 - 💻 I'm currently focused on Javascript (Discord.js)
-- 🤯 You can add me on Discord (Amir_PC#0101) or come to our server for help!
+- 🤯 You can add me on Discord (Amir_PC#9330) or come to our server for help!
 
 
 
